@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smrutiranjan/static/css/main.e16fab14.chunk.css",
-    "main.js": "/smrutiranjan/static/js/main.ac75038f.chunk.js",
-    "main.js.map": "/smrutiranjan/static/js/main.ac75038f.chunk.js.map",
+    "main.js": "/smrutiranjan/static/js/main.88fb7166.chunk.js",
+    "main.js.map": "/smrutiranjan/static/js/main.88fb7166.chunk.js.map",
     "runtime-main.js": "/smrutiranjan/static/js/runtime-main.066146c7.js",
     "runtime-main.js.map": "/smrutiranjan/static/js/runtime-main.066146c7.js.map",
     "static/css/2.93e49680.chunk.css": "/smrutiranjan/static/css/2.93e49680.chunk.css",
@@ -123,6 +123,7 @@
     "static/media/resume.660792e7.pdf": "/smrutiranjan/static/media/resume.660792e7.pdf",
     "static/media/ruby.34e792ab.svg": "/smrutiranjan/static/media/ruby.34e792ab.svg",
     "static/media/selenium.7dcf1c14.svg": "/smrutiranjan/static/media/selenium.7dcf1c14.svg",
+    "static/media/seven.3168c0a5.svg": "/smrutiranjan/static/media/seven.3168c0a5.svg",
     "static/media/six.bd765919.svg": "/smrutiranjan/static/media/six.bd765919.svg",
     "static/media/sketch.87c83552.svg": "/smrutiranjan/static/media/sketch.87c83552.svg",
     "static/media/slick-theme.css": "/smrutiranjan/static/media/slick.c94f7671.ttf",
@@ -149,6 +150,6 @@
     "static/css/2.93e49680.chunk.css",
     "static/js/2.54faf039.chunk.js",
     "static/css/main.e16fab14.chunk.css",
-    "static/js/main.ac75038f.chunk.js"
+    "static/js/main.88fb7166.chunk.js"
   ]
 }
